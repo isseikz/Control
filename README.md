@@ -1,4 +1,9 @@
 # Pythonで制御則
+
+##スライディングモード制御
+![displacement](https://github.com/isseikz/Control/blob/master/SlidingModeControl/example/mass_spring_dumper/Figure_1.png)
+![phase plane trajectory](https://github.com/isseikz/Control/blob/master/SlidingModeControl/example/mass_spring_dumper/Figure_2.png)
+
 ## 環境
 + Windows 10
 + Python3.6.5 (Anaconda)
