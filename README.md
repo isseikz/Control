@@ -1,6 +1,8 @@
 # Pythonで制御則
 
 ##スライディングモード制御
+マスバネダンパ系にスライディングモード制御を適用した例
+
 ![displacement](https://github.com/isseikz/Control/blob/master/SlidingModeControl/example/mass_spring_dumper/Figure_1.png)
 ![phase plane trajectory](https://github.com/isseikz/Control/blob/master/SlidingModeControl/example/mass_spring_dumper/Figure_2.png)
 
